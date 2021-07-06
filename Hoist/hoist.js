@@ -99,4 +99,4 @@ function makeDojo(name, students){
     }
     return dojo;
 }
-//the const has an assignment errord
+//the const has an assignment error
